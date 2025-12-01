@@ -126,16 +126,10 @@ The project is divided on multiple sides :
 * Keras/TensorFlow : Frameworks used for the Deep Neural Network.
 * chessjs/chessboardjs : for the front-end chess engine.
 
-## Meta
-
-Rayan Samy Ramoul – [https://github.com/raysr](https://github.com/raysr)
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
 
 ## Contributing
 
-1. Fork it (<https://github.com/raysr/Arcane-Chess/fork>)
+1. Fork it (<https://github.com/jajos12/Arcane-Chess/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
